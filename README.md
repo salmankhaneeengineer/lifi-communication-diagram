@@ -1,0 +1,1 @@
+# lifi-communication-diagram
